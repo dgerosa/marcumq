@@ -1,5 +1,5 @@
 
-[![DOI](https://zenodo.org/badge/46057982.svg)](https://zenodo.org/badge/latestdoi/46057982)
+[![DOI](https://zenodo.org/badge/10071541.svg)](https://zenodo.org/badge/latestdoi/10071541)
 
 ## marcumQ
 
