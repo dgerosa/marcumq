@@ -1,9 +1,6 @@
-
-[![DOI](https://zenodo.org/badge/46057982.svg)](https://zenodo.org/badge/latestdoi/46057982)
-
 ## marcumQ
 
-This is a scipy wrapper to evaluate the generalized Marcum-Q function. This is defined as:
+This is a scipy wrapper to evaluate the generalized Marcum-Q function:
 
 <img src="https://github.com/dgerosa/marcumq/assets/7237041/701bacaf-f1b8-4bc6-8946-c968bb8bf8f3" width="500">
 
