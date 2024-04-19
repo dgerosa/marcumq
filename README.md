@@ -4,7 +4,7 @@ This is a scipy wrapper to evaluate the generalized Marcum-Q function:
 
 <img src="https://github.com/dgerosa/marcumq/assets/7237041/701bacaf-f1b8-4bc6-8946-c968bb8bf8f3" width="500">
 
-For properties and applications
+For properties and applications see:
 
 - [wikipedia.org/wiki/Marcum_Q-function](https://en.wikipedia.org/wiki/Marcum_Q-function)
 - [mathworld.wolfram.com/MarcumQ-Function.html](https://mathworld.wolfram.com/MarcumQ-Function.html)
