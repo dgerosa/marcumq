@@ -21,5 +21,5 @@ marcumq.marcumq(nu=1,a=1.5,b=2.5)
 If you use this code, it would be great if you could cite our paper:
 
 - _Quick recipes for gravitational-wave selection effects._ Davide Gerosa, Malvina Bellotti. 
-Classical and Quantum Gravity, in press. [arXiv:2404.16930](https://arxiv.org/abs/2404.16930) [astro-ph.HE]
+[Classical and Quantum Gravity 41 (2024) 125002](https://iopscience.iop.org/article/10.1088/1361-6382/ad4509), [arXiv:2404.16930 [astro-ph.HE]](https://arxiv.org/abs/2404.16930) 
 
